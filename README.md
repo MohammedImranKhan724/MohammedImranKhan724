@@ -76,8 +76,8 @@ Angular · TypeScript · JavaScript (ES6+) · jQuery · Razor Pages
 ### 📊 GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammedImranKhan724&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedImranKhan724&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=MohammedImranKhan724&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=MohammedImranKhan724&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
