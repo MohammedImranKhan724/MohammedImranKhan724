@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=Mohammed%20Imran%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%C2%B7%20Full-Stack%20(C%23%20%2F%20.NET%20%2B%20Angular)&descAlignY=56&descSize=16" alt="header banner"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Distributed+%2F+Event-Driven+Backend+Systems;ASP.NET+Core+%7C+Angular+%7C+Java%2FSpring+%7C+Kafka;Clean+Architecture+%C2%B7+CQRS+%C2%B7+DDD+%C2%B7+Microservices" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=MohammedImranKhan724&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+
+</div>
+
 <h1 align="center">Hi, I'm Mohammed Imran Khan 👋</h1>
 <h3 align="center">Senior Software Engineer · Full-Stack (C# / .NET + Angular)</h3>
 
@@ -51,25 +61,58 @@ outbox/inbox pattern, plus full observability via Serilog/Seq, OpenTelemetry/Jae
 C# · ASP.NET Core · REST APIs · Microservices · CQRS · Clean Architecture · DDD · Java · Spring Boot
 
 **Real-Time, Messaging & Networking**
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+</p>
 gRPC · RabbitMQ · MQTT · UDP · Binary Protocol Parsing
 
 **Databases & Caching**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mysql,redis&perline=8" />
 </p>
-SQL Server · PostgreSQL · TimescaleDB · MySQL · Redis
+<p>
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</p>
+SQL Server · PostgreSQL · TimescaleDB · MySQL · Redis · Elasticsearch
 
 **Cloud & DevOps**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,docker,git,githubactions&perline=8" />
 </p>
-Azure Functions · Blob & Queue Storage · Azure DevOps · Docker · Git · IIS
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seq%2FSerilog-0E83CD?style=for-the-badge&logoColor=white" />
+</p>
+Azure Functions · Blob & Queue Storage · Azure DevOps · Azure SQL Database · Azure App Service · Docker · Git · IIS · AWS EC2
 
 **Front-End**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,jquery&perline=8" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
 Angular · TypeScript · JavaScript (ES6+) · jQuery · Razor Pages
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white" />
+</p>
 
 ---
 
@@ -79,6 +122,26 @@ Angular · TypeScript · JavaScript (ES6+) · jQuery · Razor Pages
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=MohammedImranKhan724&show_icons=true&theme=dark&hide_border=true" />
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=MohammedImranKhan724&layout=compact&theme=dark&hide_border=true" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedImranKhan724&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=MohammedImranKhan724&theme=dark&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MohammedImranKhan724/MohammedImranKhan724/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
 
 ---
 
