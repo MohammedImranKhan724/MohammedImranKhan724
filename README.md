@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Distributed+%2F+Event-Driven+Backend+Systems;ASP.NET+Core+%7C+Angular+%7C+Java%2FSpring+%7C+Kafka;Clean+Architecture+%C2%B7+CQRS+%C2%B7+DDD+%C2%B7+Microservices" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=MohammedImranKhan724&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=MohammedImranKhan724&label=Profile+Views&color=58A6FF&style=for-the-badge&base=1000" alt="Profile views" />
 
 </div>
 
